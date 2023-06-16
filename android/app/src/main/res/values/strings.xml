@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PCOSPal\'s</string>
+    <string name="sign_in_now">Sign In Now!</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="get_started_message">Get started with your registration</string>
+    <string name="first_name">First Name</string>
+    <!-- Tambahkan string resources untuk field yang lain -->
+    <string name="register_button_label">Register</string>
+    <string name="welcome">Welcome To PCOS Pal\'s</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">E-mail</string>
+    <string name="birthday">Brithday</string>
+    <string name="password_visibility">Password Visibility</string>
+    <string name="password">Password</string>
+
+</resources>
