@@ -66,7 +66,7 @@ if pimples == 'y':
     input_data['pimples'] = pimples
 elif pimples == 'n':
     pimples = 0
-    input_data['pimpls'] = pimples
+    input_data['pimples'] = pimples
 
 fast_food = input("Do you often eat fast food (y/n)? ")
 if fast_food == 'y':
